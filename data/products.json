@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Laptop HP Victus 16",
+    "description": "Laptop gamer de alta performance con tarjeta gráfica dedicada.",
+    "price": 560,
+    "imageUrl": "https://pycca.vteximg.com.br/arquivos/ids/289316-600-600/O23662.png?v=638914135082770000",
+    "categoryId": "692b5f8a70ff2edcd31c8562",
+    "stock": 9
+  },
+  {
+    "name": "Mouse Inalámbrico Logitech MX Master 3",
+    "description": "Mouse inalámbrico y ergonómico con alta precisión.",
+    "price": 25,
+    "imageUrl": "https://m.media-amazon.com/images/I/61cGVHDEj5S._AC_SL1500_.jpg",
+    "categoryId": "692b5f8a70ff2edcd31c8563",
+    "stock": 30
+  },
+  {
+    "name": "Smartphone Samsung Galaxy S25 Ultra",
+    "description": "Smartphone de última generación con cámara avanzada.",
+    "price": 1200,
+    "imageUrl": "https://mobilestore.ec/wp-content/uploads/2025/01/Samsung-Galaxy-S25-Ultra-Titanium-Gray-Mobile-Store-Ecuador.jpg",
+    "categoryId": "692b5f8a70ff2edcd31c8564",
+    "stock": 6
+  },
+  {
+    "name": "Audífonos Bose QuietComfort 35 II",
+    "description": "Audífonos con cancelación de ruido y sonido de alta calidad.",
+    "price": 299,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8ghP7ofw9tqE8WUhK6bx2Dt-zFilaJfgezA&s",
+    "categoryId": "692b5f8a70ff2edcd31c8565",
+    "stock": 10
+  },
+  {
+    "name": "Teclado Mecánico Razer BlackWidow V4 Pro",
+    "description": "Teclado mecánico para gaming con retroiluminación RGB.",
+    "price": 60,
+    "imageUrl": "https://assets2.razerzone.com/images/pnx.assets/ebf967982c88f89e300a50e4c8e60dea/razer-blackwidow-v4-pro-og-image.jpg",
+    "categoryId": "692b5f8a70ff2edcd31c8563",
+    "stock": 12
+  },
+  {
+    "name": "Laptop MSI Katana 15 B13V",
+    "description": "Laptop gamer de alta performance con tarjeta gráfica dedicada.",
+    "price": 900,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3H1cmfJBDvdVOWYbMh49WbEq32nFMb-fbSA&s",
+    "categoryId": "692b5f8a70ff2edcd31c8562",
+    "stock": 5
+  },
+  {
+    "name": "Iphone 16 Pro Max",
+    "description": "Smartphone de última generación con cámara avanzada y rendimiento superior.",
+    "price": 1300,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTluUbmVHpuQDmNi9SD1rvO71vIZsncznBg_w&s",
+    "categoryId": "692b5f8a70ff2edcd31c8564",
+    "stock": 8
+  },
+  {
+    "name": "Bocina Bluetooth JBL Charge 5",
+    "description": "Bocina portátil con sonido potente y resistente al agua.",
+    "price": 180,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbdYdnMyklOOpdj7B79nYB_Fe2EPZBW_uv9w&s",
+    "categoryId": "692b5f8a70ff2edcd31c8565",
+    "stock": 20
+  },
+  {
+    "name": "Xiaomi 17 Pro Max",
+    "description": "Smartphone de alta gama",
+    "price": 950,
+    "imageUrl": "https://i.blogs.es/cc7e3d/xiaomi-17-series-portada/1200_900.jpeg",
+    "categoryId": "692b5f8a70ff2edcd31c8564",
+    "stock": 5
+  }
+]
