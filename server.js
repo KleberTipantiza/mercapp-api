@@ -7,11 +7,17 @@ const { MongoClient } = require('mongodb')
 const productRoutes = require('./routes/products')
 const categoryRoutes = require('./routes/categories')
 
+const allowedOrigins = [process.env.FRONTEND_URL, process.env.NETLIFY_URL]
+
 const app = express()
 const PORT = process.env.PORT || 3000
 const uri = process.env.MONGODB_URI
 
-app.use(cors())
+app.use(cors({
+  origin: allowedOrigins,
+  credentials: true
+}))
+
 app.use(express.json())
 
 // Conexión a MongoDB
